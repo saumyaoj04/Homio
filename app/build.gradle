@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace 'dex.alpha.dormdynamo'
+    namespace 'com.saumya.homio'
     compileSdk 33
 
     defaultConfig {
-        applicationId "dex.alpha.dormdynamo"
+        applicationId "com.saumya.homio"
         minSdk 26
         targetSdk 33
         versionCode 1

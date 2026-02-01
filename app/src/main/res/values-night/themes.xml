@@ -1,6 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
 
-<resources>
-    <style name="DormDynamo" parent="Theme.Material3.Dark.NoActionBar">
+    <style name="Theme.Homio" parent="Theme.Material3.Dark.NoActionBar">
+
+
+        <item
+            name="android:windowSplashScreenAnimatedIcon"
+            tools:targetApi="31">
+            @drawable/splash_image
+        </item>
+
+        <item
+            name="android:windowSplashScreenBackground"
+            tools:targetApi="31">
+            @color/md_theme_dark_background
+        </item>
+
+        <!-- THEME COLORS -->
         <item name="android:statusBarColor">?attr/colorSurface</item>
         <item name="colorPrimary">@color/md_theme_dark_primary</item>
         <item name="colorOnPrimary">@color/md_theme_dark_onPrimary</item>
@@ -28,5 +44,7 @@
         <item name="colorOnSurfaceInverse">@color/md_theme_dark_inverseOnSurface</item>
         <item name="colorSurfaceInverse">@color/md_theme_dark_inverseSurface</item>
         <item name="colorPrimaryInverse">@color/md_theme_dark_inversePrimary</item>
+
     </style>
+
 </resources>
