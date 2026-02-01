@@ -52,7 +52,7 @@ To run the application locally:
    app/google-services.json 
 7. Sync Gradle and run the app on an emulator or physical device
 
-⬇️ Download
+## ⬇️ Download
 
 Go to Releases to download the APK:
 
@@ -60,7 +60,7 @@ Go to Releases to download the APK:
 
 (Release APK will appear after you upload a signed build)
 
-📸 Screenshots
+## 📸 Screenshots
 Splash Screen | Home | Home (Light)
 Splash Screen	Home	Home (Light)
 
@@ -76,12 +76,12 @@ Room Selection	Basic Details	Final Details
 
 
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 If you find a bug or want to improve the app, feel free to open an issue or submit a pull request.
 
-👤 Author
+## 👤 Author
 
 Saumya Ojha
 Android Developer | Kotlin | Firebase
