@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Homio</string>
+    <string name="app_title">Homio</string>
+    <string name="app_tagline">Hostel Management System</string>
+    <string name="exit">Exit</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
